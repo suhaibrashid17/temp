@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+transformers
+moviepy
+sentencepiece
+diffusers
+TTS
+openai
